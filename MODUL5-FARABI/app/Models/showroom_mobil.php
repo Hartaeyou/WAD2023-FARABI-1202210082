@@ -9,7 +9,7 @@ class showroom_mobil extends Model
 {
     use HasFactory;
 
-    public $table="showroom";
+    // public $table="showroom";
 
     protected $fillable =[
         "nama_mobil",
